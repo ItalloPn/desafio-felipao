@@ -33,9 +33,3 @@ do {
     }
     console.log(msg + nivel)
 } while (false)
-
-let teste = [
-    {nome: "teste", xp: 50}
-]
-
-teste[0].nome
